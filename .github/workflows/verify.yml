@@ -1,0 +1,65 @@
+name: Verify the source channel
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: Source channel to install
+        type: choice
+        default: checkout
+        options: [checkout, published]
+
+permissions:
+  contents: read
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild from the pinned Blyx catalog
+        run: python3 scripts/build_channel.py
+      - name: Check the published index and package bytes
+        run: |
+          git diff --exit-code -- docs
+          test -z "$(git ls-files --others --exclude-standard -- docs)"
+          cd dist
+          sha256sum -c --ignore-missing SHA256SUMS
+
+  install:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: conda-incubator/setup-miniconda@fc2d68f6413eb2d87b895e92f8584b5b94a10167
+        with:
+          miniforge-version: latest
+          activate-environment: ""
+          auto-activate-base: false
+          channels: conda-forge
+      - name: Install the released Blyx compiler
+        run: |
+          cd "$RUNNER_TEMP"
+          curl -fsSL --retry 3 https://github.com/Rahulchaube1/blyxxxx/releases/download/v0.2.1/blyx-v0.2.1-x86_64-unknown-linux-gnu.tar.gz -o blyxc.tar.gz
+          echo "792d5310bed715b2f6a2b7249606428f9ab2e8a57bdbd9abaff85d8aca2c1bdc  blyxc.tar.gz" | sha256sum -c -
+          tar -xzf blyxc.tar.gz blyxc
+          ./blyxc --version
+      - name: Install every package into a clean Conda environment
+        shell: bash -el {0}
+        env:
+          CHANNEL_SELECTION: ${{ inputs.channel }}
+        run: |
+          set -euo pipefail
+          if [[ "$CHANNEL_SELECTION" == published ]]; then
+            channel=https://rahulchaube1.github.io/blyx-packages
+          else
+            channel=http://127.0.0.1:8734
+            python3 -m http.server 8734 --bind 127.0.0.1 --directory docs >"$RUNNER_TEMP/channel.log" 2>&1 &
+            trap 'kill $! 2>/dev/null || true' EXIT
+            curl -fsS --retry 8 --retry-connrefused --retry-delay 1 "$channel/noarch/repodata.json" -o /dev/null
+          fi
+          python3 -c 'import json; print("\n".join("{name}={version}={build}".format(**p) for p in json.load(open("docs/catalog.json"))["packages"]))' > "$RUNNER_TEMP/specs.txt"
+          conda create -y -p "$RUNNER_TEMP/blyx-env" --override-channels -c "$channel" --file "$RUNNER_TEMP/specs.txt"
+      - name: Compile and run every installed example
+        run: python3 scripts/test_installs.py "$RUNNER_TEMP/blyx-env" --compiler "$RUNNER_TEMP/blyxc"

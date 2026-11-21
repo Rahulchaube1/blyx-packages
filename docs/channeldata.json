@@ -1,0 +1,2078 @@
+{
+  "channeldata_version": 1,
+  "packages": {
+    "blyx-ackprefix": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-ackprefix",
+      "doc_url": "https://www.blyx-lang.space/packages/ackprefix",
+      "home": "https://www.blyx-lang.space/packages/ackprefix",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-ackprefix",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find the longest contiguous acknowledgement prefix in unordered deliveries.",
+      "version": "0.1.0"
+    },
+    "blyx-activityspan": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-activityspan",
+      "doc_url": "https://www.blyx-lang.space/packages/activityspan",
+      "home": "https://www.blyx-lang.space/packages/activityspan",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-activityspan",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Locate active frames in a sequence of nonnegative signal levels.",
+      "version": "0.1.1"
+    },
+    "blyx-adlerbytes": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-adlerbytes",
+      "doc_url": "https://www.blyx-lang.space/packages/adlerbytes",
+      "home": "https://www.blyx-lang.space/packages/adlerbytes",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-adlerbytes",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compute the RFC 1950 Adler-32 checksum over a sequence of bytes.",
+      "version": "0.1.0"
+    },
+    "blyx-albatross": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-albatross",
+      "doc_url": "https://www.blyx-lang.space/packages/albatross",
+      "home": "https://www.blyx-lang.space/packages/albatross",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-albatross",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Estimate a build forest's scheduling lower bound from dependencies and worker capacity.",
+      "version": "0.1.0"
+    },
+    "blyx-allowfields": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-allowfields",
+      "doc_url": "https://www.blyx-lang.space/packages/allowfields",
+      "home": "https://www.blyx-lang.space/packages/allowfields",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-allowfields",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find unrecognized fields after mapping schema keys to stable IDs.",
+      "version": "0.1.0"
+    },
+    "blyx-aspectfit": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-aspectfit",
+      "doc_url": "https://www.blyx-lang.space/packages/aspectfit",
+      "home": "https://www.blyx-lang.space/packages/aspectfit",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-aspectfit",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Fit an image inside a box while preserving aspect ratio.",
+      "version": "0.1.0"
+    },
+    "blyx-assurancelevel": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-assurancelevel",
+      "doc_url": "https://www.blyx-lang.space/packages/assurancelevel",
+      "home": "https://www.blyx-lang.space/packages/assurancelevel",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-assurancelevel",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Check session freshness and an application-defined ordered assurance level.",
+      "version": "0.1.0"
+    },
+    "blyx-auditgaps": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-auditgaps",
+      "doc_url": "https://www.blyx-lang.space/packages/auditgaps",
+      "home": "https://www.blyx-lang.space/packages/auditgaps",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-auditgaps",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count forward gaps and nonadvancing IDs in an audit export.",
+      "version": "0.1.0"
+    },
+    "blyx-avocet": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-avocet",
+      "doc_url": "https://www.blyx-lang.space/packages/avocet",
+      "home": "https://www.blyx-lang.space/packages/avocet",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-avocet",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Plan replenishment after existing reservations and supplier lot sizes.",
+      "version": "0.1.0"
+    },
+    "blyx-axisrange": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-axisrange",
+      "doc_url": "https://www.blyx-lang.space/packages/axisrange",
+      "home": "https://www.blyx-lang.space/packages/axisrange",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-axisrange",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compute a chart domain and expand a constant-valued series.",
+      "version": "0.1.0"
+    },
+    "blyx-backtest": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-backtest",
+      "doc_url": "https://www.blyx-lang.space/packages/backtest",
+      "home": "https://www.blyx-lang.space/packages/backtest",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-backtest",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Evaluate forecasts in time order with a gap for delayed observations and disjoint test windows.",
+      "version": "0.1.1"
+    },
+    "blyx-barnowl": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-barnowl",
+      "doc_url": "https://www.blyx-lang.space/packages/barnowl",
+      "home": "https://www.blyx-lang.space/packages/barnowl",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-barnowl",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Inspect a supplied audit export for sequence gaps, replays and clock reversals.",
+      "version": "0.1.0"
+    },
+    "blyx-batchquota": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-batchquota",
+      "doc_url": "https://www.blyx-lang.space/packages/batchquota",
+      "home": "https://www.blyx-lang.space/packages/batchquota",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-batchquota",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Bound the next batch of an interrupted command.",
+      "version": "0.1.0"
+    },
+    "blyx-betamoment": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-betamoment",
+      "doc_url": "https://www.blyx-lang.space/packages/betamoment",
+      "home": "https://www.blyx-lang.space/packages/betamoment",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-betamoment",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Calculate the mean and variance of a Beta distribution.",
+      "version": "0.1.0"
+    },
+    "blyx-betaupdate": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-betaupdate",
+      "doc_url": "https://www.blyx-lang.space/packages/betaupdate",
+      "home": "https://www.blyx-lang.space/packages/betaupdate",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-betaupdate",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Update a Beta prior with Bernoulli counts.",
+      "version": "0.1.0"
+    },
+    "blyx-bitparity": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-bitparity",
+      "doc_url": "https://www.blyx-lang.space/packages/bitparity",
+      "home": "https://www.blyx-lang.space/packages/bitparity",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-bitparity",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Measure even/odd parity from a two-bit measurement histogram.",
+      "version": "0.1.0"
+    },
+    "blyx-bittern": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-bittern",
+      "doc_url": "https://www.blyx-lang.space/packages/bittern",
+      "home": "https://www.blyx-lang.space/packages/bittern",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-bittern",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Plan the next migration only after history, fingerprints and dirty state agree.",
+      "version": "0.1.0"
+    },
+    "blyx-blackbird": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-blackbird",
+      "doc_url": "https://www.blyx-lang.space/packages/blackbird",
+      "home": "https://www.blyx-lang.space/packages/blackbird",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-blackbird",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Resolve a wall-clock timestamp at a known gap or fold without guessing its offset.",
+      "version": "0.1.0"
+    },
+    "blyx-blockspan": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-blockspan",
+      "doc_url": "https://www.blyx-lang.space/packages/blockspan",
+      "home": "https://www.blyx-lang.space/packages/blockspan",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-blockspan",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Expand a byte request to whole storage blocks.",
+      "version": "0.1.0"
+    },
+    "blyx-bowerbird": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-bowerbird",
+      "doc_url": "https://www.blyx-lang.space/packages/bowerbird",
+      "home": "https://www.blyx-lang.space/packages/bowerbird",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-bowerbird",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Decide whether a proposed numeric-core dependency upgrade fits a declared version range.",
+      "version": "0.1.0"
+    },
+    "blyx-boxclip": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-boxclip",
+      "doc_url": "https://www.blyx-lang.space/packages/boxclip",
+      "home": "https://www.blyx-lang.space/packages/boxclip",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-boxclip",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Clip a detection rectangle to the visible image.",
+      "version": "0.1.0"
+    },
+    "blyx-boxoverlap": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-boxoverlap",
+      "doc_url": "https://www.blyx-lang.space/packages/boxoverlap",
+      "home": "https://www.blyx-lang.space/packages/boxoverlap",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-boxoverlap",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Measure intersection and union of two axis-aligned image boxes.",
+      "version": "0.1.0"
+    },
+    "blyx-budgetleft": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-budgetleft",
+      "doc_url": "https://www.blyx-lang.space/packages/budgetleft",
+      "home": "https://www.blyx-lang.space/packages/budgetleft",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-budgetleft",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Account for whole allowed failures in an observed window.",
+      "version": "0.1.0"
+    },
+    "blyx-bulbul": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-bulbul",
+      "doc_url": "https://www.blyx-lang.space/packages/bulbul",
+      "home": "https://www.blyx-lang.space/packages/bulbul",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-bulbul",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Check required and extra fields in an already parsed object.",
+      "version": "0.1.0"
+    },
+    "blyx-bunting": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-bunting",
+      "doc_url": "https://www.blyx-lang.space/packages/bunting",
+      "home": "https://www.blyx-lang.space/packages/bunting",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-bunting",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Publish a distribution as a standalone HTML table with interval labels, counts and meters. Reuse the same bin definitions in reports and tests.",
+      "version": "0.1.0"
+    },
+    "blyx-byterange": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-byterange",
+      "doc_url": "https://www.blyx-lang.space/packages/byterange",
+      "home": "https://www.blyx-lang.space/packages/byterange",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-byterange",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Resolve a single inclusive HTTP byte range to an offset and length.",
+      "version": "0.1.0"
+    },
+    "blyx-calibration": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-calibration",
+      "doc_url": "https://www.blyx-lang.space/packages/calibration",
+      "home": "https://www.blyx-lang.space/packages/calibration",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-calibration",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Check agreement between predicted probabilities and observed outcomes.",
+      "version": "0.1.1"
+    },
+    "blyx-cashladder": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-cashladder",
+      "doc_url": "https://www.blyx-lang.space/packages/cashladder",
+      "home": "https://www.blyx-lang.space/packages/cashladder",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-cashladder",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find closing and lowest balances along an ordered cash-flow schedule.",
+      "version": "0.1.0"
+    },
+    "blyx-cashmatch": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-cashmatch",
+      "doc_url": "https://www.blyx-lang.space/packages/cashmatch",
+      "home": "https://www.blyx-lang.space/packages/cashmatch",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-cashmatch",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Apply posted payments and preserve customer credit separately.",
+      "version": "0.1.1"
+    },
+    "blyx-chaffinch": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-chaffinch",
+      "doc_url": "https://www.blyx-lang.space/packages/chaffinch",
+      "home": "https://www.blyx-lang.space/packages/chaffinch",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-chaffinch",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Reconcile sorted collection snapshots without materializing their union.",
+      "version": "0.1.0"
+    },
+    "blyx-chunkspan": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-chunkspan",
+      "doc_url": "https://www.blyx-lang.space/packages/chunkspan",
+      "home": "https://www.blyx-lang.space/packages/chunkspan",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-chunkspan",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Locate a fixed-width chunk including the final partial chunk.",
+      "version": "0.1.0"
+    },
+    "blyx-civiloffset": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-civiloffset",
+      "doc_url": "https://www.blyx-lang.space/packages/civiloffset",
+      "home": "https://www.blyx-lang.space/packages/civiloffset",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-civiloffset",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Convert a local tick to a candidate UTC tick for a supplied offset.",
+      "version": "0.1.0"
+    },
+    "blyx-claimclock": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-claimclock",
+      "doc_url": "https://www.blyx-lang.space/packages/claimclock",
+      "home": "https://www.blyx-lang.space/packages/claimclock",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-claimclock",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Evaluate activation and expiration bounds on previously verified claims.",
+      "version": "0.1.0"
+    },
+    "blyx-classification": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-classification",
+      "doc_url": "https://www.blyx-lang.space/packages/classification",
+      "home": "https://www.blyx-lang.space/packages/classification",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-classification",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Measure threshold decisions, false alarms, missed positives and their costs.",
+      "version": "0.1.1"
+    },
+    "blyx-clipruns": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-clipruns",
+      "doc_url": "https://www.blyx-lang.space/packages/clipruns",
+      "home": "https://www.blyx-lang.space/packages/clipruns",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-clipruns",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count overloaded samples and the longest continuous run.",
+      "version": "0.1.1"
+    },
+    "blyx-clockfold": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-clockfold",
+      "doc_url": "https://www.blyx-lang.space/packages/clockfold",
+      "home": "https://www.blyx-lang.space/packages/clockfold",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-clockfold",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Classify a local time around one supplied offset transition.",
+      "version": "0.1.0"
+    },
+    "blyx-coalesceio": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-coalesceio",
+      "doc_url": "https://www.blyx-lang.space/packages/coalesceio",
+      "home": "https://www.blyx-lang.space/packages/coalesceio",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-coalesceio",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count merged reads and extra gap bytes for sorted byte requests.",
+      "version": "0.1.0"
+    },
+    "blyx-conformal": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-conformal",
+      "doc_url": "https://www.blyx-lang.space/packages/conformal",
+      "home": "https://www.blyx-lang.space/packages/conformal",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-conformal",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Calibrate a regression interval from held-out errors and measure coverage on a separate test set.",
+      "version": "0.1.0"
+    },
+    "blyx-cormorant": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-cormorant",
+      "doc_url": "https://www.blyx-lang.space/packages/cormorant",
+      "home": "https://www.blyx-lang.space/packages/cormorant",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-cormorant",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Separate variation in packet delivery from a constant difference between clocks.",
+      "version": "0.1.0"
+    },
+    "blyx-cueoverlap": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-cueoverlap",
+      "doc_url": "https://www.blyx-lang.space/packages/cueoverlap",
+      "home": "https://www.blyx-lang.space/packages/cueoverlap",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-cueoverlap",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Audit a sorted list of half-open subtitle cue intervals.",
+      "version": "0.1.0"
+    },
+    "blyx-curlew": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-curlew",
+      "doc_url": "https://www.blyx-lang.space/packages/curlew",
+      "home": "https://www.blyx-lang.space/packages/curlew",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-curlew",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Plan grid tiles covering every observation in a projected point survey.",
+      "version": "0.1.0"
+    },
+    "blyx-cusum": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-cusum",
+      "doc_url": "https://www.blyx-lang.space/packages/cusum",
+      "home": "https://www.blyx-lang.space/packages/cusum",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-cusum",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Detect persistent shifts in a sequence of standardized observations with a two-sided cumulative sum.",
+      "version": "0.1.0"
+    },
+    "blyx-dagorder": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-dagorder",
+      "doc_url": "https://www.blyx-lang.space/packages/dagorder",
+      "home": "https://www.blyx-lang.space/packages/dagorder",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-dagorder",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Validate indexed dependencies in an ordered build forest.",
+      "version": "0.1.0"
+    },
+    "blyx-deadlinepath": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-deadlinepath",
+      "doc_url": "https://www.blyx-lang.space/packages/deadlinepath",
+      "home": "https://www.blyx-lang.space/packages/deadlinepath",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-deadlinepath",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Propagate a parent time budget across elapsed RPC stages.",
+      "version": "0.1.0"
+    },
+    "blyx-dipper": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-dipper",
+      "doc_url": "https://www.blyx-lang.space/packages/dipper",
+      "home": "https://www.blyx-lang.space/packages/dipper",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-dipper",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Parse quoted CSV records, preserve embedded line breaks, and validate a row width before consuming a file.",
+      "version": "0.1.0"
+    },
+    "blyx-dominance": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-dominance",
+      "doc_url": "https://www.blyx-lang.space/packages/dominance",
+      "home": "https://www.blyx-lang.space/packages/dominance",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-dominance",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compute Simpson dominance and its complement from abundance counts.",
+      "version": "0.1.0"
+    },
+    "blyx-drawdepth": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-drawdepth",
+      "doc_url": "https://www.blyx-lang.space/packages/drawdepth",
+      "home": "https://www.blyx-lang.space/packages/drawdepth",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-drawdepth",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Measure the deepest historical peak-to-trough equity decline.",
+      "version": "0.1.0"
+    },
+    "blyx-dunlin": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-dunlin",
+      "doc_url": "https://www.blyx-lang.space/packages/dunlin",
+      "home": "https://www.blyx-lang.space/packages/dunlin",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-dunlin",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Audit a table export for duplicate parents and orphaned child rows.",
+      "version": "0.1.0"
+    },
+    "blyx-edgeaudit": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-edgeaudit",
+      "doc_url": "https://www.blyx-lang.space/packages/edgeaudit",
+      "home": "https://www.blyx-lang.space/packages/edgeaudit",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-edgeaudit",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Audit exact repeated directed edges and self-loops.",
+      "version": "0.1.0"
+    },
+    "blyx-egret": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-egret",
+      "doc_url": "https://www.blyx-lang.space/packages/egret",
+      "home": "https://www.blyx-lang.space/packages/egret",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-egret",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Summarize richness, singletons and dominance in an ecological field survey.",
+      "version": "0.1.0"
+    },
+    "blyx-eventlevels": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-eventlevels",
+      "doc_url": "https://www.blyx-lang.space/packages/eventlevels",
+      "home": "https://www.blyx-lang.space/packages/eventlevels",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-eventlevels",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count log records at or above an OpenTelemetry severity number.",
+      "version": "0.1.0"
+    },
+    "blyx-eventorder": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-eventorder",
+      "doc_url": "https://www.blyx-lang.space/packages/eventorder",
+      "home": "https://www.blyx-lang.space/packages/eventorder",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-eventorder",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Locate time-order anomalies in a log stream in receipt order.",
+      "version": "0.1.0"
+    },
+    "blyx-exitpolicy": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-exitpolicy",
+      "doc_url": "https://www.blyx-lang.space/packages/exitpolicy",
+      "home": "https://www.blyx-lang.space/packages/exitpolicy",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-exitpolicy",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Summarize portable process exit codes without losing the first failure.",
+      "version": "0.1.0"
+    },
+    "blyx-fantail": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-fantail",
+      "doc_url": "https://www.blyx-lang.space/packages/fantail",
+      "home": "https://www.blyx-lang.space/packages/fantail",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-fantail",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Resolve a layered setting and report where an invalid override came from.",
+      "version": "0.1.0"
+    },
+    "blyx-fieldcost": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-fieldcost",
+      "doc_url": "https://www.blyx-lang.space/packages/fieldcost",
+      "home": "https://www.blyx-lang.space/packages/fieldcost",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-fieldcost",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Estimate expanded resolver work using per-field costs and visit counts.",
+      "version": "0.1.0"
+    },
+    "blyx-flamingo": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-flamingo",
+      "doc_url": "https://www.blyx-lang.space/packages/flamingo",
+      "home": "https://www.blyx-lang.space/packages/flamingo",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-flamingo",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Produce chart-ready axis limits and labeled tick spacing from raw data.",
+      "version": "0.1.0"
+    },
+    "blyx-floorbreach": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-floorbreach",
+      "doc_url": "https://www.blyx-lang.space/packages/floorbreach",
+      "home": "https://www.blyx-lang.space/packages/floorbreach",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-floorbreach",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Locate the first reserve breach and count all deficient period ends.",
+      "version": "0.1.0"
+    },
+    "blyx-foreignmiss": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-foreignmiss",
+      "doc_url": "https://www.blyx-lang.space/packages/foreignmiss",
+      "home": "https://www.blyx-lang.space/packages/foreignmiss",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-foreignmiss",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count child rows referencing absent numeric parent keys.",
+      "version": "0.1.0"
+    },
+    "blyx-framesignal": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-framesignal",
+      "doc_url": "https://www.blyx-lang.space/packages/framesignal",
+      "home": "https://www.blyx-lang.space/packages/framesignal",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-framesignal",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Measure peak amplitude and mean-square energy of a signal frame.",
+      "version": "0.1.1"
+    },
+    "blyx-freshclock": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-freshclock",
+      "doc_url": "https://www.blyx-lang.space/packages/freshclock",
+      "home": "https://www.blyx-lang.space/packages/freshclock",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-freshclock",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Advance an already calculated HTTP cache age on a monotonic clock.",
+      "version": "0.1.0"
+    },
+    "blyx-fulmar": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-fulmar",
+      "doc_url": "https://www.blyx-lang.space/packages/fulmar",
+      "home": "https://www.blyx-lang.space/packages/fulmar",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-fulmar",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Choose a contiguous commit offset from an out-of-order delivery trace.",
+      "version": "0.1.0"
+    },
+    "blyx-gaphold": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-gaphold",
+      "doc_url": "https://www.blyx-lang.space/packages/gaphold",
+      "home": "https://www.blyx-lang.space/packages/gaphold",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-gaphold",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count activity segments while bridging short internal silences.",
+      "version": "0.1.1"
+    },
+    "blyx-geobounds": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-geobounds",
+      "doc_url": "https://www.blyx-lang.space/packages/geobounds",
+      "home": "https://www.blyx-lang.space/packages/geobounds",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-geobounds",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find a projected planar extent from paired point coordinates.",
+      "version": "0.1.0"
+    },
+    "blyx-graphdegree": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-graphdegree",
+      "doc_url": "https://www.blyx-lang.space/packages/graphdegree",
+      "home": "https://www.blyx-lang.space/packages/graphdegree",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-graphdegree",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count incoming and outgoing edges at a named numeric vertex.",
+      "version": "0.1.0"
+    },
+    "blyx-grebe": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-grebe",
+      "doc_url": "https://www.blyx-lang.space/packages/grebe",
+      "home": "https://www.blyx-lang.space/packages/grebe",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-grebe",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Build a repeatable keyset page and return the exact next cursor.",
+      "version": "0.1.0"
+    },
+    "blyx-gregorianday": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-gregorianday",
+      "doc_url": "https://www.blyx-lang.space/packages/gregorianday",
+      "home": "https://www.blyx-lang.space/packages/gregorianday",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-gregorianday",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Validate a proleptic Gregorian date and calculate its day-of-year.",
+      "version": "0.1.0"
+    },
+    "blyx-gridcover": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-gridcover",
+      "doc_url": "https://www.blyx-lang.space/packages/gridcover",
+      "home": "https://www.blyx-lang.space/packages/gridcover",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-gridcover",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find grid indices containing both extrema of a closed planar extent.",
+      "version": "0.1.0"
+    },
+    "blyx-gridgap": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-gridgap",
+      "doc_url": "https://www.blyx-lang.space/packages/gridgap",
+      "home": "https://www.blyx-lang.space/packages/gridgap",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-gridgap",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Locate the coarsest gap and count nonincreasing steps in a sample grid.",
+      "version": "0.1.0"
+    },
+    "blyx-harrier": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-harrier",
+      "doc_url": "https://www.blyx-lang.space/packages/harrier",
+      "home": "https://www.blyx-lang.space/packages/harrier",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-harrier",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Apply time and assurance policy to a session after upstream identity verification.",
+      "version": "0.1.0"
+    },
+    "blyx-heron": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-heron",
+      "doc_url": "https://www.blyx-lang.space/packages/heron",
+      "home": "https://www.blyx-lang.space/packages/heron",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-heron",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Track one sensor feed’s accepted messages, duplicate sequence numbers, out-of-order arrivals and missed deadlines.",
+      "version": "0.1.0"
+    },
+    "blyx-histquantile": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-histquantile",
+      "doc_url": "https://www.blyx-lang.space/packages/histquantile",
+      "home": "https://www.blyx-lang.space/packages/histquantile",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-histquantile",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Locate a nearest-rank quantile in noncumulative histogram counts.",
+      "version": "0.1.0"
+    },
+    "blyx-hoopoe": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-hoopoe",
+      "doc_url": "https://www.blyx-lang.space/packages/hoopoe",
+      "home": "https://www.blyx-lang.space/packages/hoopoe",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-hoopoe",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Plan a thumbnail and check the decoded pixel buffer against a byte budget.",
+      "version": "0.1.0"
+    },
+    "blyx-ibis": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-ibis",
+      "doc_url": "https://www.blyx-lang.space/packages/ibis",
+      "home": "https://www.blyx-lang.space/packages/ibis",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-ibis",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Reconcile an invoice with split payments in integer minor units.",
+      "version": "0.1.1"
+    },
+    "blyx-indentsteps": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-indentsteps",
+      "doc_url": "https://www.blyx-lang.space/packages/indentsteps",
+      "home": "https://www.blyx-lang.space/packages/indentsteps",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-indentsteps",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Audit fixed-step indentation measured on nonblank source lines.",
+      "version": "0.1.0"
+    },
+    "blyx-intervalunion": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-intervalunion",
+      "doc_url": "https://www.blyx-lang.space/packages/intervalunion",
+      "home": "https://www.blyx-lang.space/packages/intervalunion",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-intervalunion",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Measure union length and coverage components of sorted half-open intervals.",
+      "version": "0.1.0"
+    },
+    "blyx-jacana": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-jacana",
+      "doc_url": "https://www.blyx-lang.space/packages/jacana",
+      "home": "https://www.blyx-lang.space/packages/jacana",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-jacana",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compare a crude event rate with a directly standardized rate.",
+      "version": "0.1.1"
+    },
+    "blyx-jittermean": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-jittermean",
+      "doc_url": "https://www.blyx-lang.space/packages/jittermean",
+      "home": "https://www.blyx-lang.space/packages/jittermean",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-jittermean",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Estimate interarrival jitter with the RFC 3550 one-sixteenth update.",
+      "version": "0.1.0"
+    },
+    "blyx-kestrel": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-kestrel",
+      "doc_url": "https://www.blyx-lang.space/packages/kestrel",
+      "home": "https://www.blyx-lang.space/packages/kestrel",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-kestrel",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Run a bounded number of simulation ticks per rendered frame, carry fractional frame time and interpolate a moving object between updates.",
+      "version": "0.1.0"
+    },
+    "blyx-keyduplicates": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-keyduplicates",
+      "doc_url": "https://www.blyx-lang.space/packages/keyduplicates",
+      "home": "https://www.blyx-lang.space/packages/keyduplicates",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-keyduplicates",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find repeated primary-key occurrences in an offline table export.",
+      "version": "0.1.0"
+    },
+    "blyx-keyorders": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-keyorders",
+      "doc_url": "https://www.blyx-lang.space/packages/keyorders",
+      "home": "https://www.blyx-lang.space/packages/keyorders",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-keyorders",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Check a cursor key sequence for repeated and descending adjacent values.",
+      "version": "0.1.0"
+    },
+    "blyx-kinglet": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-kinglet",
+      "doc_url": "https://www.blyx-lang.space/packages/kinglet",
+      "home": "https://www.blyx-lang.space/packages/kinglet",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-kinglet",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Plan a full or single-range HTTP response against a known representation size.",
+      "version": "0.1.0"
+    },
+    "blyx-lapwing": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-lapwing",
+      "doc_url": "https://www.blyx-lang.space/packages/lapwing",
+      "home": "https://www.blyx-lang.space/packages/lapwing",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-lapwing",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Preflight fixed-line document pagination with indivisible paragraphs.",
+      "version": "0.1.0"
+    },
+    "blyx-leaseclock": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-leaseclock",
+      "doc_url": "https://www.blyx-lang.space/packages/leaseclock",
+      "home": "https://www.blyx-lang.space/packages/leaseclock",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-leaseclock",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Classify a message lease against a single monotonic clock.",
+      "version": "0.1.0"
+    },
+    "blyx-lineamount": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-lineamount",
+      "doc_url": "https://www.blyx-lang.space/packages/lineamount",
+      "home": "https://www.blyx-lang.space/packages/lineamount",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-lineamount",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Extend paired invoice quantities and prices in integer minor units.",
+      "version": "0.1.1"
+    },
+    "blyx-linearfit": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-linearfit",
+      "doc_url": "https://www.blyx-lang.space/packages/linearfit",
+      "home": "https://www.blyx-lang.space/packages/linearfit",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-linearfit",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Train, merge and deploy a single-feature least-squares or ridge regression with an unpenalized intercept.",
+      "version": "0.1.1"
+    },
+    "blyx-linefit": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-linefit",
+      "doc_url": "https://www.blyx-lang.space/packages/linefit",
+      "home": "https://www.blyx-lang.space/packages/linefit",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-linefit",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compute the usable print area and whole lines per page.",
+      "version": "0.1.0"
+    },
+    "blyx-linewidth": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-linewidth",
+      "doc_url": "https://www.blyx-lang.space/packages/linewidth",
+      "home": "https://www.blyx-lang.space/packages/linewidth",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-linewidth",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find overlong source lines from measured display columns.",
+      "version": "0.1.0"
+    },
+    "blyx-linnet": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-linnet",
+      "doc_url": "https://www.blyx-lang.space/packages/linnet",
+      "home": "https://www.blyx-lang.space/packages/linnet",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-linnet",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Summarize speech-activity intervals from a precomputed frame-level envelope.",
+      "version": "0.1.1"
+    },
+    "blyx-lotround": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-lotround",
+      "doc_url": "https://www.blyx-lang.space/packages/lotround",
+      "home": "https://www.blyx-lang.space/packages/lotround",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-lotround",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Round a shortage to a supplier's whole purchase lots.",
+      "version": "0.1.0"
+    },
+    "blyx-magpie": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-magpie",
+      "doc_url": "https://www.blyx-lang.space/packages/magpie",
+      "home": "https://www.blyx-lang.space/packages/magpie",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-magpie",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Integrate an increasing sample grid and flag under-sampled sections.",
+      "version": "0.1.0"
+    },
+    "blyx-martin": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-martin",
+      "doc_url": "https://www.blyx-lang.space/packages/martin",
+      "home": "https://www.blyx-lang.space/packages/martin",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-martin",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Decide whether another RPC attempt fits the remaining end-to-end deadline.",
+      "version": "0.1.0"
+    },
+    "blyx-merganser": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-merganser",
+      "doc_url": "https://www.blyx-lang.space/packages/merganser",
+      "home": "https://www.blyx-lang.space/packages/merganser",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-merganser",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Report drawdown depth and time below the running peak for a historical series.",
+      "version": "0.1.0"
+    },
+    "blyx-mergecounts": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-mergecounts",
+      "doc_url": "https://www.blyx-lang.space/packages/mergecounts",
+      "home": "https://www.blyx-lang.space/packages/mergecounts",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-mergecounts",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count unique keys shared or exclusive to two sorted streams.",
+      "version": "0.1.0"
+    },
+    "blyx-modelgate": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-modelgate",
+      "doc_url": "https://www.blyx-lang.space/packages/modelgate",
+      "home": "https://www.blyx-lang.space/packages/modelgate",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-modelgate",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compare two binary classifiers on the same observations and stop a release when mistake costs or Brier score regress.",
+      "version": "0.1.2"
+    },
+    "blyx-moments": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-moments",
+      "doc_url": "https://www.blyx-lang.space/packages/moments",
+      "home": "https://www.blyx-lang.space/packages/moments",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-moments",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Summarize paired observations as they arrive and merge statistics from independent batches.",
+      "version": "0.1.0"
+    },
+    "blyx-nightingale": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-nightingale",
+      "doc_url": "https://www.blyx-lang.space/packages/nightingale",
+      "home": "https://www.blyx-lang.space/packages/nightingale",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-nightingale",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Bound a percentile from histogram counts without inventing a within-bin value.",
+      "version": "0.1.0"
+    },
+    "blyx-nuthatch": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-nuthatch",
+      "doc_url": "https://www.blyx-lang.space/packages/nuthatch",
+      "home": "https://www.blyx-lang.space/packages/nuthatch",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-nuthatch",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Wrap a message and preserve a valid scroll position after resizing a terminal.",
+      "version": "0.1.0"
+    },
+    "blyx-offsetgap": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-offsetgap",
+      "doc_url": "https://www.blyx-lang.space/packages/offsetgap",
+      "home": "https://www.blyx-lang.space/packages/offsetgap",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-offsetgap",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Audit an ordered offset trace against an expected starting value.",
+      "version": "0.1.0"
+    },
+    "blyx-optionlayer": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-optionlayer",
+      "doc_url": "https://www.blyx-lang.space/packages/optionlayer",
+      "home": "https://www.blyx-lang.space/packages/optionlayer",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-optionlayer",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Resolve a numeric setting across ordered configuration layers.",
+      "version": "0.1.0"
+    },
+    "blyx-oriole": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-oriole",
+      "doc_url": "https://www.blyx-lang.space/packages/oriole",
+      "home": "https://www.blyx-lang.space/packages/oriole",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-oriole",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Decide whether a scheduled revision can go live after independent review.",
+      "version": "0.1.0"
+    },
+    "blyx-osprey": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-osprey",
+      "doc_url": "https://www.blyx-lang.space/packages/osprey",
+      "home": "https://www.blyx-lang.space/packages/osprey",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-osprey",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Score a detection against a reference after clipping both to the camera frame.",
+      "version": "0.1.0"
+    },
+    "blyx-pagebreaks": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-pagebreaks",
+      "doc_url": "https://www.blyx-lang.space/packages/pagebreaks",
+      "home": "https://www.blyx-lang.space/packages/pagebreaks",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-pagebreaks",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Place unsplittable document blocks on successive pages in input order.",
+      "version": "0.1.0"
+    },
+    "blyx-pagecursor": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-pagecursor",
+      "doc_url": "https://www.blyx-lang.space/packages/pagecursor",
+      "home": "https://www.blyx-lang.space/packages/pagecursor",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-pagecursor",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find a keyset page strictly after a cursor in sorted keys.",
+      "version": "0.1.0"
+    },
+    "blyx-peakslots": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-peakslots",
+      "doc_url": "https://www.blyx-lang.space/packages/peakslots",
+      "home": "https://www.blyx-lang.space/packages/peakslots",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-peakslots",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find peak simultaneous occupancy of half-open intervals.",
+      "version": "0.1.0"
+    },
+    "blyx-pelican": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-pelican",
+      "doc_url": "https://www.blyx-lang.space/packages/pelican",
+      "home": "https://www.blyx-lang.space/packages/pelican",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-pelican",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compare per-request aligned I/O with coalesced unaligned reads for a sorted trace.",
+      "version": "0.1.0"
+    },
+    "blyx-petrel": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-petrel",
+      "doc_url": "https://www.blyx-lang.space/packages/petrel",
+      "home": "https://www.blyx-lang.space/packages/petrel",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-petrel",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Admit an immediate charge or report the wait a request can afford.",
+      "version": "0.1.0"
+    },
+    "blyx-pintail": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-pintail",
+      "doc_url": "https://www.blyx-lang.space/packages/pintail",
+      "home": "https://www.blyx-lang.space/packages/pintail",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-pintail",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compare long-only portfolio snapshots under a one-way turnover budget.",
+      "version": "0.1.0"
+    },
+    "blyx-pipit": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-pipit",
+      "doc_url": "https://www.blyx-lang.space/packages/pipit",
+      "home": "https://www.blyx-lang.space/packages/pipit",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-pipit",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Plan the next CLI batch from child exit codes and a failure allowance.",
+      "version": "0.1.0"
+    },
+    "blyx-plover": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-plover",
+      "doc_url": "https://www.blyx-lang.space/packages/plover",
+      "home": "https://www.blyx-lang.space/packages/plover",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-plover",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Gate alerts on error-budget burn in both a short and a long window.",
+      "version": "0.1.0"
+    },
+    "blyx-quail": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-quail",
+      "doc_url": "https://www.blyx-lang.space/packages/quail",
+      "home": "https://www.blyx-lang.space/packages/quail",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-quail",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Simulate a short real-amplitude single-qubit circuit and compare shot counts.",
+      "version": "0.1.0"
+    },
+    "blyx-querydepth": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-querydepth",
+      "doc_url": "https://www.blyx-lang.space/packages/querydepth",
+      "home": "https://www.blyx-lang.space/packages/querydepth",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-querydepth",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Validate a preorder field-depth trace from an expanded query plan.",
+      "version": "0.1.0"
+    },
+    "blyx-rankband": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-rankband",
+      "doc_url": "https://www.blyx-lang.space/packages/rankband",
+      "home": "https://www.blyx-lang.space/packages/rankband",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-rankband",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Look up the finite interval represented by a histogram bin.",
+      "version": "0.1.0"
+    },
+    "blyx-rasterbytes": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-rasterbytes",
+      "doc_url": "https://www.blyx-lang.space/packages/rasterbytes",
+      "home": "https://www.blyx-lang.space/packages/rasterbytes",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-rasterbytes",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Estimate uncompressed raster storage with aligned scanlines.",
+      "version": "0.1.0"
+    },
+    "blyx-raven": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-raven",
+      "doc_url": "https://www.blyx-lang.space/packages/raven",
+      "home": "https://www.blyx-lang.space/packages/raven",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-raven",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Budget a bounded log buffer while preserving higher-severity events first.",
+      "version": "0.1.0"
+    },
+    "blyx-readoutfreq": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-readoutfreq",
+      "doc_url": "https://www.blyx-lang.space/packages/readoutfreq",
+      "home": "https://www.blyx-lang.space/packages/readoutfreq",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-readoutfreq",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compare computational-basis shot frequencies to a real qubit's probabilities.",
+      "version": "0.1.0"
+    },
+    "blyx-realqubit": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-realqubit",
+      "doc_url": "https://www.blyx-lang.space/packages/realqubit",
+      "home": "https://www.blyx-lang.space/packages/realqubit",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-realqubit",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Apply I, X, Z or Hadamard to a normalized real-amplitude qubit.",
+      "version": "0.1.0"
+    },
+    "blyx-recordspan": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-recordspan",
+      "doc_url": "https://www.blyx-lang.space/packages/recordspan",
+      "home": "https://www.blyx-lang.space/packages/recordspan",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-recordspan",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Locate the nonempty length-prefixed record containing a byte offset.",
+      "version": "0.1.0"
+    },
+    "blyx-redstart": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-redstart",
+      "doc_url": "https://www.blyx-lang.space/packages/redstart",
+      "home": "https://www.blyx-lang.space/packages/redstart",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-redstart",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Update a binary-event model and report uncertainty in its probability.",
+      "version": "0.1.0"
+    },
+    "blyx-releasewindow": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-releasewindow",
+      "doc_url": "https://www.blyx-lang.space/packages/releasewindow",
+      "home": "https://www.blyx-lang.space/packages/releasewindow",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-releasewindow",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Locate a clock tick within a scheduled publication window.",
+      "version": "0.1.0"
+    },
+    "blyx-requiredset": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-requiredset",
+      "doc_url": "https://www.blyx-lang.space/packages/requiredset",
+      "home": "https://www.blyx-lang.space/packages/requiredset",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-requiredset",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find missing unique required keys in an object shape.",
+      "version": "0.1.0"
+    },
+    "blyx-residualwatch": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-residualwatch",
+      "doc_url": "https://www.blyx-lang.space/packages/residualwatch",
+      "home": "https://www.blyx-lang.space/packages/residualwatch",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-residualwatch",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Monitor prediction drift by detecting sustained upward or downward changes in errors against a frozen reference period.",
+      "version": "0.1.0"
+    },
+    "blyx-resumeindex": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-resumeindex",
+      "doc_url": "https://www.blyx-lang.space/packages/resumeindex",
+      "home": "https://www.blyx-lang.space/packages/resumeindex",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-resumeindex",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Recover the first unfinished chunk from an ordered checkpoint log.",
+      "version": "0.1.0"
+    },
+    "blyx-retrieval": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-retrieval",
+      "doc_url": "https://www.blyx-lang.space/packages/retrieval",
+      "home": "https://www.blyx-lang.space/packages/retrieval",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-retrieval",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Score ranked search or RAG results without giving repeated document IDs extra credit.",
+      "version": "0.1.1"
+    },
+    "blyx-retrydelay": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-retrydelay",
+      "doc_url": "https://www.blyx-lang.space/packages/retrydelay",
+      "home": "https://www.blyx-lang.space/packages/retrydelay",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-retrydelay",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compute saturating exponential retry delays without unbounded exponentiation.",
+      "version": "0.1.0"
+    },
+    "blyx-reviewquorum": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-reviewquorum",
+      "doc_url": "https://www.blyx-lang.space/packages/reviewquorum",
+      "home": "https://www.blyx-lang.space/packages/reviewquorum",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-reviewquorum",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count independent reviewers and calculate outstanding approvals.",
+      "version": "0.1.0"
+    },
+    "blyx-richness": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-richness",
+      "doc_url": "https://www.blyx-lang.space/packages/richness",
+      "home": "https://www.blyx-lang.space/packages/richness",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-richness",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count observed taxa and singletons from an abundance vector.",
+      "version": "0.1.0"
+    },
+    "blyx-robin": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-robin",
+      "doc_url": "https://www.blyx-lang.space/packages/robin",
+      "home": "https://www.blyx-lang.space/packages/robin",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-robin",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Convert a validated civil date into an ordinal, weekday and comparable day number.",
+      "version": "0.1.0"
+    },
+    "blyx-runduration": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-runduration",
+      "doc_url": "https://www.blyx-lang.space/packages/runduration",
+      "home": "https://www.blyx-lang.space/packages/runduration",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-runduration",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find the critical-path time in a forest of dependent tasks.",
+      "version": "0.1.0"
+    },
+    "blyx-samplequota": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-samplequota",
+      "doc_url": "https://www.blyx-lang.space/packages/samplequota",
+      "home": "https://www.blyx-lang.space/packages/samplequota",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-samplequota",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Allocate a bounded log buffer with higher priority for important records.",
+      "version": "0.1.0"
+    },
+    "blyx-sanderling": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-sanderling",
+      "doc_url": "https://www.blyx-lang.space/packages/sanderling",
+      "home": "https://www.blyx-lang.space/packages/sanderling",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-sanderling",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Choose a cache serving mode from stored age, local elapsed time and grace policy.",
+      "version": "0.1.0"
+    },
+    "blyx-sandpiper": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-sandpiper",
+      "doc_url": "https://www.blyx-lang.space/packages/sandpiper",
+      "home": "https://www.blyx-lang.space/packages/sandpiper",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-sandpiper",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Schedule a deterministic redelivery after both lease expiry and retry backoff.",
+      "version": "0.1.0"
+    },
+    "blyx-schemaguard": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-schemaguard",
+      "doc_url": "https://www.blyx-lang.space/packages/schemaguard",
+      "home": "https://www.blyx-lang.space/packages/schemaguard",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-schemaguard",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Detect changed fingerprints for previously applied migrations.",
+      "version": "0.1.0"
+    },
+    "blyx-semvercore": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-semvercore",
+      "doc_url": "https://www.blyx-lang.space/packages/semvercore",
+      "home": "https://www.blyx-lang.space/packages/semvercore",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-semvercore",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compare two numeric semantic-version cores lexicographically.",
+      "version": "0.1.0"
+    },
+    "blyx-shotmargins": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-shotmargins",
+      "doc_url": "https://www.blyx-lang.space/packages/shotmargins",
+      "home": "https://www.blyx-lang.space/packages/shotmargins",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-shotmargins",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Extract both individual bit frequencies from joint two-bit shots.",
+      "version": "0.1.0"
+    },
+    "blyx-shrike": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-shrike",
+      "doc_url": "https://www.blyx-lang.space/packages/shrike",
+      "home": "https://www.blyx-lang.space/packages/shrike",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-shrike",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Combine lexical and semantic search results by rank, then walk the merged list in a deterministic order.",
+      "version": "0.1.0"
+    },
+    "blyx-siskin": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-siskin",
+      "doc_url": "https://www.blyx-lang.space/packages/siskin",
+      "home": "https://www.blyx-lang.space/packages/siskin",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-siskin",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Inspect a cash-flow schedule for shortfalls that disappear by the closing date.",
+      "version": "0.1.0"
+    },
+    "blyx-skimmer": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-skimmer",
+      "doc_url": "https://www.blyx-lang.space/packages/skimmer",
+      "home": "https://www.blyx-lang.space/packages/skimmer",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-skimmer",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compare parity and marginal balance in two-bit shot data.",
+      "version": "0.1.0"
+    },
+    "blyx-sloburn": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-sloburn",
+      "doc_url": "https://www.blyx-lang.space/packages/sloburn",
+      "home": "https://www.blyx-lang.space/packages/sloburn",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-sloburn",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Normalize observed failures by an allowed error fraction.",
+      "version": "0.1.0"
+    },
+    "blyx-sortruns": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-sortruns",
+      "doc_url": "https://www.blyx-lang.space/packages/sortruns",
+      "home": "https://www.blyx-lang.space/packages/sortruns",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-sortruns",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Summarize equal-value runs in a nondecreasing integer stream.",
+      "version": "0.1.0"
+    },
+    "blyx-spoonbill": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-spoonbill",
+      "doc_url": "https://www.blyx-lang.space/packages/spoonbill",
+      "home": "https://www.blyx-lang.space/packages/spoonbill",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-spoonbill",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Preflight caption cue timings against an explicit overlap policy.",
+      "version": "0.1.0"
+    },
+    "blyx-stalewindow": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-stalewindow",
+      "doc_url": "https://www.blyx-lang.space/packages/stalewindow",
+      "home": "https://www.blyx-lang.space/packages/stalewindow",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-stalewindow",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Classify a cache entry under an explicit stale-serving policy.",
+      "version": "0.1.0"
+    },
+    "blyx-starling": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-starling",
+      "doc_url": "https://www.blyx-lang.space/packages/starling",
+      "home": "https://www.blyx-lang.space/packages/starling",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-starling",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Estimate resource capacity and actual occupied time from a booking schedule.",
+      "version": "0.1.0"
+    },
+    "blyx-statusretry": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-statusretry",
+      "doc_url": "https://www.blyx-lang.space/packages/statusretry",
+      "home": "https://www.blyx-lang.space/packages/statusretry",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-statusretry",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Check a conservative retry policy for selected gRPC status codes.",
+      "version": "0.1.0"
+    },
+    "blyx-stdweight": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-stdweight",
+      "doc_url": "https://www.blyx-lang.space/packages/stdweight",
+      "home": "https://www.blyx-lang.space/packages/stdweight",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-stdweight",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Directly standardize stratum-specific rates to a reference population.",
+      "version": "0.1.1"
+    },
+    "blyx-stockledger": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-stockledger",
+      "doc_url": "https://www.blyx-lang.space/packages/stockledger",
+      "home": "https://www.blyx-lang.space/packages/stockledger",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-stockledger",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Reconcile on-hand inventory with individual outstanding reservations.",
+      "version": "0.1.0"
+    },
+    "blyx-stratamean": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-stratamean",
+      "doc_url": "https://www.blyx-lang.space/packages/stratamean",
+      "home": "https://www.blyx-lang.space/packages/stratamean",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-stratamean",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Pool event counts and expose the crude observed rate.",
+      "version": "0.1.1"
+    },
+    "blyx-suffixrange": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-suffixrange",
+      "doc_url": "https://www.blyx-lang.space/packages/suffixrange",
+      "home": "https://www.blyx-lang.space/packages/suffixrange",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-suffixrange",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Resolve an HTTP suffix-byte specification without negative offsets.",
+      "version": "0.1.0"
+    },
+    "blyx-swallow": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-swallow",
+      "doc_url": "https://www.blyx-lang.space/packages/swallow",
+      "home": "https://www.blyx-lang.space/packages/swallow",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-swallow",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Validate an exported payload's declared spans and checksum, then locate a byte.",
+      "version": "0.1.0"
+    },
+    "blyx-swiftlet": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-swiftlet",
+      "doc_url": "https://www.blyx-lang.space/packages/swiftlet",
+      "home": "https://www.blyx-lang.space/packages/swiftlet",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-swiftlet",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Dispatch a method and request path against a table of literal and parameterized routes. Return a matched template and the methods a client can use.",
+      "version": "0.1.0"
+    },
+    "blyx-tanager": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-tanager",
+      "doc_url": "https://www.blyx-lang.space/packages/tanager",
+      "home": "https://www.blyx-lang.space/packages/tanager",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-tanager",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Audit a directed edge list before interpreting a vertex's degree.",
+      "version": "0.1.0"
+    },
+    "blyx-tickstep": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-tickstep",
+      "doc_url": "https://www.blyx-lang.space/packages/tickstep",
+      "home": "https://www.blyx-lang.space/packages/tickstep",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-tickstep",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Choose a covering linear tick lattice using steps 1, 2, 5 or 10 times a power of ten.",
+      "version": "0.1.1"
+    },
+    "blyx-timebase": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-timebase",
+      "doc_url": "https://www.blyx-lang.space/packages/timebase",
+      "home": "https://www.blyx-lang.space/packages/timebase",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-timebase",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Convert a nonnegative frame tick to seconds using a rational time base.",
+      "version": "0.1.0"
+    },
+    "blyx-tokenbucket": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-tokenbucket",
+      "doc_url": "https://www.blyx-lang.space/packages/tokenbucket",
+      "home": "https://www.blyx-lang.space/packages/tokenbucket",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-tokenbucket",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Refill a rate bucket up to its burst capacity.",
+      "version": "0.1.0"
+    },
+    "blyx-towhee": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-towhee",
+      "doc_url": "https://www.blyx-lang.space/packages/towhee",
+      "home": "https://www.blyx-lang.space/packages/towhee",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-towhee",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Combine indentation and line-width diagnostics for a measured source file.",
+      "version": "0.1.0"
+    },
+    "blyx-transitspan": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-transitspan",
+      "doc_url": "https://www.blyx-lang.space/packages/transitspan",
+      "home": "https://www.blyx-lang.space/packages/transitspan",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-transitspan",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Summarize observed packet transit differences and arrival reorderings.",
+      "version": "0.1.0"
+    },
+    "blyx-trapezoid": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-trapezoid",
+      "doc_url": "https://www.blyx-lang.space/packages/trapezoid",
+      "home": "https://www.blyx-lang.space/packages/trapezoid",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-trapezoid",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Integrate sampled values by the composite trapezoidal rule in input order.",
+      "version": "0.1.0"
+    },
+    "blyx-turnover": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-turnover",
+      "doc_url": "https://www.blyx-lang.space/packages/turnover",
+      "home": "https://www.blyx-lang.space/packages/turnover",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-turnover",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Calculate one-way turnover for two fully allocated long-only weight vectors.",
+      "version": "0.1.0"
+    },
+    "blyx-turnstone": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-turnstone",
+      "doc_url": "https://www.blyx-lang.space/packages/turnstone",
+      "home": "https://www.blyx-lang.space/packages/turnstone",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-turnstone",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Resume a chunked file job from acknowledged checkpoints.",
+      "version": "0.1.0"
+    },
+    "blyx-underwater": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-underwater",
+      "doc_url": "https://www.blyx-lang.space/packages/underwater",
+      "home": "https://www.blyx-lang.space/packages/underwater",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-underwater",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Measure how long an equity series stayed below its running peak.",
+      "version": "0.1.0"
+    },
+    "blyx-valuebounds": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-valuebounds",
+      "doc_url": "https://www.blyx-lang.space/packages/valuebounds",
+      "home": "https://www.blyx-lang.space/packages/valuebounds",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-valuebounds",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Check a numeric setting against inclusive bounds and explain the violation.",
+      "version": "0.1.0"
+    },
+    "blyx-versionband": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-versionband",
+      "doc_url": "https://www.blyx-lang.space/packages/versionband",
+      "home": "https://www.blyx-lang.space/packages/versionband",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-versionband",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Check membership of a numeric-version core in a half-open dependency interval.",
+      "version": "0.1.0"
+    },
+    "blyx-versionchain": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-versionchain",
+      "doc_url": "https://www.blyx-lang.space/packages/versionchain",
+      "home": "https://www.blyx-lang.space/packages/versionchain",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-versionchain",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Validate an applied migration log against a strictly increasing release manifest.",
+      "version": "0.1.0"
+    },
+    "blyx-viewportion": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-viewportion",
+      "doc_url": "https://www.blyx-lang.space/packages/viewportion",
+      "home": "https://www.blyx-lang.space/packages/viewportion",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-viewportion",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Clamp a terminal scroll offset to a filled viewport.",
+      "version": "0.1.0"
+    },
+    "blyx-waitbudget": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-waitbudget",
+      "doc_url": "https://www.blyx-lang.space/packages/waitbudget",
+      "home": "https://www.blyx-lang.space/packages/waitbudget",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-waitbudget",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Compute the wait required for a token charge within a relative deadline.",
+      "version": "0.1.0"
+    },
+    "blyx-warbler": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-warbler",
+      "doc_url": "https://www.blyx-lang.space/packages/warbler",
+      "home": "https://www.blyx-lang.space/packages/warbler",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-warbler",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Flag sustained clipping while reporting the energy of an audio frame.",
+      "version": "0.1.1"
+    },
+    "blyx-waxwing": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-waxwing",
+      "doc_url": "https://www.blyx-lang.space/packages/waxwing",
+      "home": "https://www.blyx-lang.space/packages/waxwing",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-waxwing",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Check the depth and weighted resolver cost of an expanded GraphQL field plan.",
+      "version": "0.1.0"
+    },
+    "blyx-weaver": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-weaver",
+      "doc_url": "https://www.blyx-lang.space/packages/weaver",
+      "home": "https://www.blyx-lang.space/packages/weaver",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-weaver",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Lay out equal-width tiles on small or large viewports, distribute leftover pixels and map pointer coordinates back to an item.",
+      "version": "0.1.0"
+    },
+    "blyx-weightdrift": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-weightdrift",
+      "doc_url": "https://www.blyx-lang.space/packages/weightdrift",
+      "home": "https://www.blyx-lang.space/packages/weightdrift",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-weightdrift",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Find the largest per-asset deviation between two weight vectors.",
+      "version": "0.1.0"
+    },
+    "blyx-wordrows": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-wordrows",
+      "doc_url": "https://www.blyx-lang.space/packages/wordrows",
+      "home": "https://www.blyx-lang.space/packages/wordrows",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-wordrows",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count greedy terminal lines from premeasured word widths.",
+      "version": "0.1.0"
+    },
+    "blyx-wren": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-wren",
+      "doc_url": "https://www.blyx-lang.space/packages/wren",
+      "home": "https://www.blyx-lang.space/packages/wren",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-wren",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Run named checks and skips, compare floating-point measurements, and report a TAP 13 stream and a process exit status for CI.",
+      "version": "0.1.0"
+    },
+    "blyx-yearorigin": {
+      "dev_url": "https://github.com/Rahulchaube1/blyx-yearorigin",
+      "doc_url": "https://www.blyx-lang.space/packages/yearorigin",
+      "home": "https://www.blyx-lang.space/packages/yearorigin",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyx-yearorigin",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Count Gregorian days before January 1 of a year.",
+      "version": "0.1.0"
+    },
+    "blyxtorch": {
+      "dev_url": "https://github.com/Rahulchaube1/blyxtorch",
+      "doc_url": "https://www.blyx-lang.space/packages/blyxtorch",
+      "home": "https://www.blyx-lang.space/packages/blyxtorch",
+      "license": "MIT OR Apache-2.0",
+      "name": "blyxtorch",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Train dense networks with SGD or Adam, inspect parameter gradients, and generate standalone Blyx models for regression or classification.",
+      "version": "0.2.0"
+    }
+  },
+  "subdirs": [
+    "noarch",
+    "linux-64",
+    "linux-aarch64",
+    "osx-64",
+    "osx-arm64",
+    "win-64",
+    "win-arm64"
+  ]
+}

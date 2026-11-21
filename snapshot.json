@@ -1,0 +1,11 @@
+{
+  "version": "2026.11.22",
+  "catalog_commit": "6d19e4c4147956b1e6cea4be61cd245d007c18d4",
+  "build_numbers": {},
+  "submodules": {
+    "modelgate": {
+      "vendor/calibration": {"repository": "https://github.com/Rahulchaube1/blyx-calibration", "commit": "809843fec7d7d35a8faff56a1777fe8cf7870db0"},
+      "vendor/classification": {"repository": "https://github.com/Rahulchaube1/blyx-classification", "commit": "6b024278dd0d55da81168915292067e461a1f690"}
+    }
+  }
+}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blyx source packages</title>
+  <meta name="description" content="Install Blyx frameworks and libraries from the project’s Conda channel or download the complete source collection.">
+  <link rel="icon" href="https://www.blyx-lang.space/favicon-192.png">
+  <style>
+    :root { color-scheme: light dark; font: 17px/1.6 Inter, system-ui, sans-serif; }
+    body { max-width: 47rem; margin: 8vh auto; padding: 0 1.25rem; }
+    a { text-underline-offset: .18em; } h1,h2 { line-height: 1.15; }
+    h1 { margin: .5rem 0 1rem; font-size: clamp(2rem,6vw,3.2rem); }
+    h2 { margin: 2rem 0 .6rem; font-size: 1.4rem; }
+    pre { padding: 1rem; border: 1px solid #849891; border-radius: .5rem; overflow-x: auto; }
+    nav,footer { display: flex; gap: .5rem 1.3rem; flex-wrap: wrap; } footer { margin-top: 2.5rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <a href="https://www.blyx-lang.space/">Blyx</a>
+    <h1>Blyx source packages</h1>
+    <p>Install a framework or library in a Conda environment. Each package includes its Blyx source, a worked example and the output you can check it against.</p>
+    <nav aria-label="Blyx packages">
+      <a href="https://www.blyx-lang.space/frameworks">Browse frameworks</a>
+      <a href="https://www.blyx-lang.space/libraries">Browse libraries</a>
+      <a href="https://github.com/Rahulchaube1/blyx-packages/releases">Download the collection</a>
+    </nav>
+    <h2>Try Moments</h2>
+    <pre><code>conda create -n blyx-demo --override-channels \
+  -c https://rahulchaube1.github.io/blyx-packages blyx-moments</code></pre>
+    <p>Activate the environment, then run the example in <code>share/blyx/moments</code> with the Blyx compiler. The installation guide includes Windows, macOS and Linux commands.</p>
+    <a href="https://github.com/Rahulchaube1/blyx-packages#install-individual-packages">Installation guide</a>
+    <footer><a href="catalog.json">Package catalog JSON</a><a href="noarch/repodata.json">Conda index</a><a href="https://github.com/Rahulchaube1/blyx-packages/issues">Report a packaging issue</a></footer>
+  </main>
+</body>
+</html>
