@@ -46,8 +46,8 @@
       "subdirs": [
         "noarch"
       ],
-      "summary": "Estimate a build forest's scheduling lower bound from dependencies and worker capacity.",
-      "version": "0.1.0"
+      "summary": "Estimate a build’s scheduling lower bound and budget each worker’s memory for sharded model training.",
+      "version": "0.2.0"
     },
     "blyx-allowfields": {
       "dev_url": "https://github.com/Rahulchaube1/blyx-allowfields",
@@ -358,8 +358,8 @@
       "subdirs": [
         "noarch"
       ],
-      "summary": "Reconcile sorted collection snapshots without materializing their union.",
-      "version": "0.1.0"
+      "summary": "Merge counts and reconcile sparse gradient sums from training workers.",
+      "version": "0.2.0"
     },
     "blyx-chunkspan": {
       "dev_url": "https://github.com/Rahulchaube1/blyx-chunkspan",
@@ -970,8 +970,8 @@
       "subdirs": [
         "noarch"
       ],
-      "summary": "Plan a full or single-range HTTP response against a known representation size.",
-      "version": "0.1.0"
+      "summary": "Plan HTTP byte ranges and map checkpoint tensor slices across fixed-width shards.",
+      "version": "0.2.0"
     },
     "blyx-lapwing": {
       "dev_url": "https://github.com/Rahulchaube1/blyx-lapwing",
@@ -1018,8 +1018,8 @@
       "subdirs": [
         "noarch"
       ],
-      "summary": "Train, merge and deploy a single-feature least-squares or ridge regression with an unpenalized intercept.",
-      "version": "0.1.1"
+      "summary": "Fit single-feature or ridge regression, train a bilinear model on paired features and inspect individual matrix coefficients.",
+      "version": "0.2.0"
     },
     "blyx-linefit": {
       "dev_url": "https://github.com/Rahulchaube1/blyx-linefit",
@@ -2062,8 +2062,8 @@
       "subdirs": [
         "noarch"
       ],
-      "summary": "Train dense networks with SGD or Adam, inspect parameter gradients, and generate standalone Blyx models for regression or classification.",
-      "version": "0.2.0"
+      "summary": "Train neural networks on CPU or Vulkan GPU, differentiate Ry/CNOT circuits on CPU and export OpenQASM 3.",
+      "version": "0.5.0"
     }
   },
   "subdirs": [

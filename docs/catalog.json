@@ -1,5 +1,5 @@
 {
-  "catalog_commit": "6d19e4c4147956b1e6cea4be61cd245d007c18d4",
+  "catalog_commit": "1598fd76c7c99b179884e09f43fa374072c7b1af",
   "compiler": "0.2.1",
   "packages": [
     {
@@ -46,17 +46,17 @@
     },
     {
       "build": "0",
-      "commit": "b2387f24eed18a45ba049ce68f27b62aaa34b491",
+      "commit": "c3f9f57832a089744ffa5cce383b5876232f4385",
       "directory": "share/blyx/albatross",
-      "filename": "blyx-albatross-0.1.0-0.tar.bz2",
+      "filename": "blyx-albatross-0.2.0-0.tar.bz2",
       "kind": "framework",
       "module": "albatross.blyx",
       "name": "blyx-albatross",
       "repository": "https://github.com/Rahulchaube1/blyx-albatross",
-      "sha256": "95c4297902bb583a2910489c41446b28c09e76c97b3b11c6f7a128bff80a9ec9",
+      "sha256": "59796d2a9946dab2de42b49e49e196ed30821cfbbafc7d638effdf1d5840c726",
       "slug": "albatross",
       "submodules": {},
-      "version": "0.1.0"
+      "version": "0.2.0"
     },
     {
       "build": "0",
@@ -270,17 +270,17 @@
     },
     {
       "build": "0",
-      "commit": "6b67ab026a5dae70f0894dc327dfe0364e18c135",
+      "commit": "04c2e047c14315e52573ff054770fe5adaa7c1ba",
       "directory": "share/blyx/blyxtorch",
-      "filename": "blyxtorch-0.2.0-0.tar.bz2",
+      "filename": "blyxtorch-0.5.0-0.tar.bz2",
       "kind": "framework",
       "module": "blyxtorch.blyx",
       "name": "blyxtorch",
       "repository": "https://github.com/Rahulchaube1/blyxtorch",
-      "sha256": "8aac5092ddb864ae36f869ffc422c8b17e189fdf145e767fc42a09087c1ad541",
+      "sha256": "613a8f88ed9ce75873931062dbaa28f84d51e7d6f4ef35d69cc5373377365e80",
       "slug": "blyxtorch",
       "submodules": {},
-      "version": "0.2.0"
+      "version": "0.5.0"
     },
     {
       "build": "0",
@@ -424,17 +424,17 @@
     },
     {
       "build": "0",
-      "commit": "76d2d9cdad9812cedce6e5ef474a097c5d31dc71",
+      "commit": "fb83b7dbd6be1c180d4a335c3c1d319cf9162103",
       "directory": "share/blyx/chaffinch",
-      "filename": "blyx-chaffinch-0.1.0-0.tar.bz2",
+      "filename": "blyx-chaffinch-0.2.0-0.tar.bz2",
       "kind": "framework",
       "module": "chaffinch.blyx",
       "name": "blyx-chaffinch",
       "repository": "https://github.com/Rahulchaube1/blyx-chaffinch",
-      "sha256": "cc351ecc424910537dce993723cb93060ac1f36549577eeb2e790b1fe5face87",
+      "sha256": "1831587984e384f8b53a770eda94de51a9fab2811fcadadc43988b21475b5dee",
       "slug": "chaffinch",
       "submodules": {},
-      "version": "0.1.0"
+      "version": "0.2.0"
     },
     {
       "build": "0",
@@ -1138,17 +1138,17 @@
     },
     {
       "build": "0",
-      "commit": "3425d588518e80673bab51e21bc1adee6d2a0962",
+      "commit": "01bcffbec33c84119f9664eb2d40351bda5e31e9",
       "directory": "share/blyx/kinglet",
-      "filename": "blyx-kinglet-0.1.0-0.tar.bz2",
+      "filename": "blyx-kinglet-0.2.0-0.tar.bz2",
       "kind": "framework",
       "module": "kinglet.blyx",
       "name": "blyx-kinglet",
       "repository": "https://github.com/Rahulchaube1/blyx-kinglet",
-      "sha256": "1b553106981c02c2295d1f3e6249b8178045bd932627cff92616dc5bdb059b67",
+      "sha256": "6fc0e2a49ad940ade9729850492637b70dd4b4ceb5e499f86073cb4cf9be30ff",
       "slug": "kinglet",
       "submodules": {},
-      "version": "0.1.0"
+      "version": "0.2.0"
     },
     {
       "build": "0",
@@ -1194,17 +1194,17 @@
     },
     {
       "build": "0",
-      "commit": "6a937457b27d8adf5601025e6244474a1be273e5",
+      "commit": "bf37a21028dc738b7953d82a7e9d32a3bebb6f84",
       "directory": "share/blyx/linearfit",
-      "filename": "blyx-linearfit-0.1.1-0.tar.bz2",
+      "filename": "blyx-linearfit-0.2.0-0.tar.bz2",
       "kind": "framework",
       "module": "linearfit.blyx",
       "name": "blyx-linearfit",
       "repository": "https://github.com/Rahulchaube1/blyx-linearfit",
-      "sha256": "ed98c1bd217908b20f8a7d46d7a804cb4e1f33efcc982ef8dd16c3d74dcedc8a",
+      "sha256": "77fa27a815cabef43af1cc2d18b4e5d5cb958e37d17ebdabb4de9fd2f5102962",
       "slug": "linearfit",
       "submodules": {},
-      "version": "0.1.1"
+      "version": "0.2.0"
     },
     {
       "build": "0",
@@ -2420,5 +2420,5 @@
       "version": "0.1.0"
     }
   ],
-  "version": "2026.11.22"
+  "version": "2026.11.24"
 }

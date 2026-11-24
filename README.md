@@ -1,13 +1,13 @@
 # Blyx source packages
 
-Install individual Blyx frameworks and libraries with Conda, or download them together as a ZIP. The 2026.11.22 collection contains **65 frameworks and 107 libraries**. Every project includes a runnable Blyx example, its expected output, the upstream source and licenses, and the exact Git commit used for packaging. [Framework directory](https://www.blyx-lang.space/frameworks) · [Library directory](https://www.blyx-lang.space/libraries) · [Release downloads](https://github.com/Rahulchaube1/blyx-packages/releases)
+Install individual Blyx frameworks and libraries with Conda, or download them together as a ZIP. The 2026.11.24 collection contains **65 frameworks and 107 libraries**. Every project includes a runnable Blyx example, its expected output, the upstream source and licenses, and the exact Git commit used for packaging. [Framework directory](https://www.blyx-lang.space/frameworks) · [Library directory](https://www.blyx-lang.space/libraries) · [Release downloads](https://github.com/Rahulchaube1/blyx-packages/releases)
 
 ## Install individual packages
 
 The project maintains a public Conda channel at `https://rahulchaube1.github.io/blyx-packages`. Its `noarch` packages contain portable source. A package retains its upstream release version. Install the [Blyx compiler](https://www.blyx-lang.space/download), Rust and a host linker to run the native examples.
 
 ```sh
-conda create -y -n blyx-demo --override-channels -c https://rahulchaube1.github.io/blyx-packages blyxtorch=0.2.0 blyx-moments=0.1.0
+conda create -y -n blyx-demo --override-channels -c https://rahulchaube1.github.io/blyx-packages blyxtorch=0.5.0 blyx-moments=0.1.0
 conda activate blyx-demo
 ```
 
@@ -31,7 +31,7 @@ conda search --override-channels -c https://rahulchaube1.github.io/blyx-packages
 
 ## Install the collection
 
-The [release ZIP and SHA-256 checksums](https://github.com/Rahulchaube1/blyx-packages/releases/tag/v2026.11.22) are available without an account. Extract the ZIP and run `blyxc native-run share/blyx/moments/main.blyx` from its root. Each directory under `share/blyx` contains a complete example project. To use Moments in your own program, copy the project's `vendor/moments` directory into your own `vendor` directory and import `use vendor::moments::moments;`. Copying the entire module directory preserves its local dependencies.
+The [release ZIP and SHA-256 checksums](https://github.com/Rahulchaube1/blyx-packages/releases/tag/v2026.11.24) are available without an account. Extract the ZIP and run `blyxc native-run share/blyx/moments/main.blyx` from its root. Each directory under `share/blyx` contains a complete example project. To use Moments in your own program, copy the project's `vendor/moments` directory into your own `vendor` directory and import `use vendor::moments::moments;`. Copying the entire module directory preserves its local dependencies.
 
 The full collection is also distributed through the project's [Homebrew tap](https://github.com/Rahulchaube1/homebrew-blyx) and [Scoop bucket](https://github.com/Rahulchaube1/scoop-blyx).
 

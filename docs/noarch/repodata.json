@@ -63,6 +63,21 @@
       "subdir": "noarch",
       "version": "0.1.0"
     },
+    "blyx-albatross-0.2.0-0.tar.bz2": {
+      "arch": null,
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT OR Apache-2.0",
+      "md5": "9700dde8fec68fc74a2a2002bace2066",
+      "name": "blyx-albatross",
+      "noarch": "generic",
+      "platform": null,
+      "sha256": "59796d2a9946dab2de42b49e49e196ed30821cfbbafc7d638effdf1d5840c726",
+      "size": 47631,
+      "subdir": "noarch",
+      "version": "0.2.0"
+    },
     "blyx-allowfields-0.1.0-0.tar.bz2": {
       "arch": null,
       "build": "0",
@@ -452,6 +467,21 @@
       "size": 28866,
       "subdir": "noarch",
       "version": "0.1.0"
+    },
+    "blyx-chaffinch-0.2.0-0.tar.bz2": {
+      "arch": null,
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT OR Apache-2.0",
+      "md5": "0dcd35ea6a155d10edde2aa540d68ee9",
+      "name": "blyx-chaffinch",
+      "noarch": "generic",
+      "platform": null,
+      "sha256": "1831587984e384f8b53a770eda94de51a9fab2811fcadadc43988b21475b5dee",
+      "size": 53477,
+      "subdir": "noarch",
+      "version": "0.2.0"
     },
     "blyx-chunkspan-0.1.0-0.tar.bz2": {
       "arch": null,
@@ -1218,6 +1248,21 @@
       "subdir": "noarch",
       "version": "0.1.0"
     },
+    "blyx-kinglet-0.2.0-0.tar.bz2": {
+      "arch": null,
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT OR Apache-2.0",
+      "md5": "00c3c26a01e164c294cafe1c69fb8041",
+      "name": "blyx-kinglet",
+      "noarch": "generic",
+      "platform": null,
+      "sha256": "6fc0e2a49ad940ade9729850492637b70dd4b4ceb5e499f86073cb4cf9be30ff",
+      "size": 65929,
+      "subdir": "noarch",
+      "version": "0.2.0"
+    },
     "blyx-lapwing-0.1.0-0.tar.bz2": {
       "arch": null,
       "build": "0",
@@ -1277,6 +1322,21 @@
       "size": 29141,
       "subdir": "noarch",
       "version": "0.1.1"
+    },
+    "blyx-linearfit-0.2.0-0.tar.bz2": {
+      "arch": null,
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT OR Apache-2.0",
+      "md5": "d839644530c178d546076a7f3e499034",
+      "name": "blyx-linearfit",
+      "noarch": "generic",
+      "platform": null,
+      "sha256": "77fa27a815cabef43af1cc2d18b4e5d5cb958e37d17ebdabb4de9fd2f5102962",
+      "size": 48602,
+      "subdir": "noarch",
+      "version": "0.2.0"
     },
     "blyx-linefit-0.1.0-0.tar.bz2": {
       "arch": null,
@@ -2582,6 +2642,21 @@
       "size": 127778,
       "subdir": "noarch",
       "version": "0.2.0"
+    },
+    "blyxtorch-0.5.0-0.tar.bz2": {
+      "arch": null,
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT OR Apache-2.0",
+      "md5": "77050e6358c29417e40336228aeba878",
+      "name": "blyxtorch",
+      "noarch": "generic",
+      "platform": null,
+      "sha256": "613a8f88ed9ce75873931062dbaa28f84d51e7d6f4ef35d69cc5373377365e80",
+      "size": 74376,
+      "subdir": "noarch",
+      "version": "0.5.0"
     }
   },
   "packages.conda": {},
